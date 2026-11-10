@@ -1,6 +1,6 @@
 # Doomsday Clock V2 AI handoff
 
-Read this file first. Continue the project in `/Users/jramirez/Git/dooms-dayclock`. Do not create another app, replace this repository, or modify the stable V1 project at `/Users/jramirez/Git/Doomsday-Countdown`.
+Read this file first. Continue the project in `<project-root>`. Do not create another app, replace this repository, or modify the stable V1 project at `<project-root>/../Doomsday-Countdown`.
 
 ## What this project is
 
@@ -128,4 +128,4 @@ npm test
 
 Also verify the live local page, guest refresh recovery, finish times after midnight, keyboard use, 200 percent zoom, reduced motion, phone layout, optional-integration failures, and secret exclusion. Do not claim browser, provider, account, or deployment testing unless it actually happened.
 
-The downloadable handoff package is `/Users/jramirez/Git/dooms-dayclock-v2.zip`. Rebuild it after material changes while excluding `.git`, `.env`, `.env.local`, `node_modules`, build output, and local Cloudflare state.
+The downloadable handoff package is `<project-root>/../dooms-dayclock-v2.zip`. Rebuild it after material changes while excluding `.git`, `.env`, `.env.local`, `node_modules`, build output, and local Cloudflare state.
